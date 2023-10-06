@@ -19,8 +19,9 @@ It provides an easy-to-use interface that allows users to specify snippets of a 
 * As a user, be able to generate a transcript with speaker identification (Speaker Diarization).
 * As a user, be able to specify the interval of a snippet by dragging a slider on the video player via a web interface.
 
-### In The Future:
+### Possibly In The Future:
 * Localization of CLI & web-UI to Japanese and Chinese.
+* As a user, be able to generate a 'segments' file from a transcript file, automatically creating segments (with text) based on context and length of sentence.
 * Automatic Speech Recognition (ASR) correction for transcripts generated in Japanese, with domain-specific knowledge of video games and VTubers.
 
 
